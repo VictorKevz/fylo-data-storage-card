@@ -1,6 +1,6 @@
 .outer-container {
   display: flex;
-  min-height:800px;
+  min-height:100vh;
   justify-content: center;
   align-items: center;
   width: 100%;
